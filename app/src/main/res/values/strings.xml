@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Hotels</string>
+    <string name="hotel1">Bella Vista Villa</string>
+    <string name="Hotel2">Amalfi Aura</string>
+    <string name="hotel3">Gateway Hotel</string>
+    <string name="Hotel4">Majestic Hotel</string>
+    <string name="hotel5">Golden Gamble</string>
+    <string name="Hotel6">Hotel Victory</string>
+    <string name="hotel7">Classy Castle</string>
+    <string name="Hotel8">Royal Respite</string>
+    <string name="hotel9">Hotel Prestige</string>
+    <string name="Hotel10">Royal Realm</string>
+    <string name="price1">Rs.1,999 to Rs.4,999</string>
+    <string name="price2">Sold Out</string>
+    <string name="price3">Rs.3,999 to Rs.5,999</string>
+    <string name="price4">Rs.9,999 to Rs.14,999</string>
+    <string name="price5">Sold Out</string>
+    <string name="price6">Rs.2,499 to Rs.4,999</string>
+    <string name="price7">Sold Out</string>
+    <string name="price8">Rs.2,999 to Rs.9,999</string>
+    <string name="price9">Rs.3,999 to Rs.19,999</string>
+    <string name="price10">Sold Out</string>
+</resources>
